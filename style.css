@@ -1,0 +1,278 @@
+*,
+html{
+    padding: 0;
+    margin: 0;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: scroll;
+background-color: rgb(255, 145, 117);
+}
+li{
+    float: left;
+    border: 1px pink;
+}
+li a { 
+    display: block;
+    color: peachpuff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+button{ 
+    float: right;
+    margin: 15px;
+}
+input{
+float: right;
+margin: 15px;
+}
+.header{
+border: 1px solid pink;
+height: 200px;
+width: 100%;
+}
+img {
+    height: 200px;
+    width: 1342px;
+}
+
+.oh {
+   text-align: center;
+   margin: 20px;
+}
+
+/* body */
+.induk1 {
+    background-color: pink;
+    height: 600px;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+}
+.isi1 {
+    border: 1px solid salmon;
+    height: 550px;
+    width: 45%;
+    background-color: palevioletred;
+    margin: 20px;
+    margin-left: 40px;
+
+
+}
+.gmbr1 {
+    height: 93%;
+    width: 100%;
+}
+.isi2 {
+    border: 1px solid salmon;
+    height: 550px;
+    width: 45%;
+    background-color: palevioletred;
+    margin: 20px;
+
+}
+
+.gmbr2 {
+    height: 93%;
+    width: 100%;
+}
+
+.induk2 {
+    background-color:rgb(200, 204, 255);
+    height: 500px;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+}
+
+.isi3 {
+    border: 1px solid salmon;
+    height: 450px;
+    width: 30%;
+    background-color: palevioletred;
+    margin: auto;
+}
+
+.gmbr3 {
+    height: 92%;
+    width: 100%;
+}
+
+.isi4 {
+    border: 1px solid salmon;
+    height: 450px;
+    width: 20%;
+    background-color: palevioletred;
+    margin: auto;
+}
+
+.gmbr4 {
+    height: 92%;
+    width: 100%;
+}
+
+.isi5 {
+    border: 1px solid salmon;
+    height: 450;
+    width: 30%;
+    background-color: palevioletred;
+    margin: auto;
+}
+
+.gmbr5 {
+    height: 92%;
+    width: 100%;
+}
+
+/* tutup body */
+
+/* buka news */
+*,
+html{
+    padding: 0;
+    margin: 0;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: scroll;
+background-color: rgb(247, 143, 135);
+}
+li{
+    float: left;
+    border: 1px rgb(238, 117, 101);
+}
+li a { 
+    display: block;
+    color: rgb(223, 229, 248);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+button{ 
+    float: right;
+    margin: 15px;
+}
+input{
+float: right;
+margin: 15px;
+}
+.header2{
+    border: 1px soliD rgb(106, 127, 248);
+    height: 200px;
+    width: 100%;
+    }
+    .img {
+        height: 200px;
+        width: 1500px;
+        
+    }
+    .idk1 {
+     background-color:rgb(200, 204, 255);
+    height: 350px;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    }
+    .in1 {
+        border: 1px solid rgb(204, 71, 209);
+        height: 300px;
+        width: 30%;
+        background-color: rgb(212, 85, 238);
+        margin: 20px;
+        margin : auto;
+    }
+
+    
+    .gbr1 {
+        height: 300px;
+        width: 100%;
+    }
+
+    .in2 {
+        border: 1px solid rgb(204, 71, 209);
+        height: 300px;
+        width: 30%;
+        background-color: rgb(212, 85, 238);
+        margin: 20px;
+        margin :auto;
+    }
+
+    .gbr2 {
+        height: 300px;
+        width: 100%;
+    }
+
+    .in3 {
+        border: 1px solid rgb(204, 71, 209);
+        height: 300px;
+        width: 30%;
+        background-color: rgb(212, 85, 238);
+        margin: 20px;
+        margin :auto;
+    }
+
+.gbr3 {
+    height: 300px;
+    width: 100%;
+}
+
+    .idk2 {
+        background-color:rgb(200, 204, 255);
+        height: 350px;
+        width: 100%;
+        margin: auto;
+        margin-top: 20px;
+        display: flex;
+    }
+
+    .in4 {
+        border: 1px solid rgb(204, 71, 209);
+        height: 300px;
+        width: 30%;
+        background-color: rgb(212, 85, 238);
+        margin: 20px;
+        margin :auto;
+    }
+
+.gbr4 {
+    height: 300px;
+    width: 100%;
+}
+
+    .in5 {
+        border: 1px solid rgb(204, 71, 209);
+        height: 300px;
+        width: 30%;
+        background-color: rgb(212, 85, 238);
+        margin: 20px;
+        margin :auto;
+    }
+.gbr5 {
+    height: 300px;
+    width: 100%;
+}
+    .in6 {
+        border: 1px solid rgb(204, 71, 209);
+        height: 300px;
+        width: 30%;
+        background-color: rgb(212, 85, 238);
+        margin: 20px;
+        margin :auto;
+    }
+    .gbr6 {
+        height: 300px;
+        width: 100%;
+    }
+
+    /* tutup news */
+    /*buka about*/
+    
+    /*tutup about*/
